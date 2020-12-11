@@ -1,0 +1,3 @@
+(cram
+  (applies_to aoc2020)
+  (deps ../bin/aoc2020.exe))

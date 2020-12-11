@@ -1,0 +1,11 @@
+* Advent of code 2020
+
+To run for the code for all the days implemented so far:
+#+BEGIN_SRC sh
+dune runtest
+#+END_SRC
+
+To run the code for a specific exercise
+#+BEGIN_SRC sh
+dune exec bin/aoc2020.exe $DAY (1 | 2) $INPUT_FILE
+#+END_SRC

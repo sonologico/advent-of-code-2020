@@ -1,0 +1,3 @@
+(library
+ (name aoc2020lib)
+ (libraries containers containers-data gen))

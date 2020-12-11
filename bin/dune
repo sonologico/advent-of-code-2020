@@ -1,0 +1,3 @@
+(executable
+  (name aoc2020)
+  (libraries containers aoc2020lib))
