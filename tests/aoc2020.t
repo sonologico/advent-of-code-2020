@@ -38,9 +38,20 @@
   3351
 
   $ $bin 07 1 $input/day07.txt
-  Invalid day and task: '07' '1'
-  [1]
+  208
 
   $ $bin 07 2 $input/day07.txt
-  Invalid day and task: '07' '2'
+  1664
+
+  $ $bin 08 1 $input/day08.txt
+  1859
+
+  $ $bin 08 2 $input/day08.txt
+  1235
+
+  $ $bin 09 1 $input/day09.txt
+  552655238
+
+  $ $bin 09 2 $input/day09.txt
+  Invalid day and task: '09' '2'
   [1]
