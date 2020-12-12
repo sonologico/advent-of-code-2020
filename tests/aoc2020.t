@@ -53,5 +53,10 @@
   552655238
 
   $ $bin 09 2 $input/day09.txt
-  Invalid day and task: '09' '2'
-  [1]
+  70672245
+
+  $ $bin 10 1 $input/day10.txt
+  2263
+
+  $ $bin 10 2 $input/day10.txt
+  396857386627072

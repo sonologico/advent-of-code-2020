@@ -8,6 +8,7 @@ let array = [|
   Day07.solutions;
   Day08.solutions;
   Day09.solutions;
+  Day10.solutions;
 |]
 
 let find day task =
