@@ -35,5 +35,3 @@ let task2 input =
       acc * count_trees hskip vskip grid
     ) 1
   |> Report.int
-
-let solutions = [| task1; task2 |]

@@ -78,5 +78,3 @@ let validate predicate input =
 let task1 = validate has_required_keys
 
 let task2 = validate is_valid
-
-let solutions = [| task1; task2 |]

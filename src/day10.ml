@@ -49,5 +49,3 @@ let task2 input =
   |> Gen.fold (Fun.flip Intset.add) Intset.empty
   |> count_valid
   |> Report.int
-
-let solutions = [| task1; task2 |]

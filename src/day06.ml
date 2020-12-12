@@ -44,5 +44,3 @@ let report_yes_count counting_method input =
 let task1 = report_yes_count count_exists_yes
 
 let task2  = report_yes_count count_for_all_yes
-
-let solutions = [| task1; task2 |]

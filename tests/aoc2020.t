@@ -60,3 +60,9 @@
 
   $ $bin 10 2 $input/day10.txt
   396857386627072
+
+  $ $bin 11 1 $input/day11.txt
+  2283
+
+  $ $bin 11 2 $input/day11.txt
+  2054

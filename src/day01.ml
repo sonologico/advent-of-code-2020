@@ -56,5 +56,3 @@ let task2 input =
   |> Gen.map int_of_string
   |> process_numbers2 { seen = Int_map.empty; elligible = Int_map.empty }
   |> Report.opt_int
-
-let solutions = [| task1; task2 |]

@@ -84,5 +84,3 @@ let task2 input =
   read_foward_graph_with_counts input
   |> count_contained_bags "shiny gold"
   |> Report.int
-
-let solutions = [| task1; task2 |]

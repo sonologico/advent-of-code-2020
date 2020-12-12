@@ -42,5 +42,3 @@ let report_valid_count predicate input =
 let task1 = report_valid_count case_is_valid_count
 
 let task2 = report_valid_count case_is_valid_position
-
-let solutions = [| task1; task2 |]

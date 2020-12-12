@@ -58,5 +58,3 @@ let task2 input =
   read_free_seats_bitvector input
   |> find_single_free_seat
   |> Report.opt_int
-
-let solutions = [| task1; task2 |]

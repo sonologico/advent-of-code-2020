@@ -110,5 +110,3 @@ let task2 input =
   |> Gen.filter_map (function Halted x -> Some x.accumulator | _ -> None)
   |> Gen.next
   |> Report.opt_int
-
-let solutions = [| task1; task2 |]

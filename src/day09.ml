@@ -116,5 +116,3 @@ let task2 input =
       let (min, max) = min_max_in_array numbers low high in
       min + max)
   |> Report.opt_int
-
-let solutions = [| task1; task2 |]
