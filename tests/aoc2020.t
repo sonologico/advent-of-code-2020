@@ -66,3 +66,9 @@
 
   $ $bin 11 2 $input/day11.txt
   2054
+
+  $ $bin 12 1 $input/day12.txt
+  1010
+
+  $ $bin 12 2 $input/day12.txt
+  52742
