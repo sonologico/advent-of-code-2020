@@ -16,6 +16,7 @@ let array : (module Day) array = [|
   (module Day10);
   (module Day11);
   (module Day12);
+  (module Day13);
 |]
 
 let find day task =

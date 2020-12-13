@@ -72,3 +72,9 @@
 
   $ $bin 12 2 $input/day12.txt
   52742
+
+  $ $bin 13 1 $input/day13.txt
+  3385
+
+  $ $bin 13 2 $input/day13.txt
+  600689120448303
