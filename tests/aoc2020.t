@@ -84,3 +84,9 @@
 
   $ $bin 14 2 $input/day14.txt
   3369767240513
+
+  $ $bin 15 1 $input/day15.txt
+  1238
+
+  $ $bin 15 2 $input/day15.txt
+  3745954
